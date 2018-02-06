@@ -1,0 +1,26 @@
+README:
+
+This program can be ran and compiled via terminal using javac.
+
+NOTE:
+
+The "Speed" option does not change the starting speed of the game. It changes how much faster the game will go once the next level is reached.
+
+The "Level" option does not change what level you start at. It changes how many lines need to be cleared to progress to the next level.
+
+
+CONTROLS:
+
+The game can be controlled with keyboard or mouse:
+- Keyboard controls:
+	Up: 	Rotate the piece right
+	Down:	Rotate the piece left
+	Left:	Move the piece left
+	Right: 	Move the piece right
+	Similarly, this can be done with WASD.
+
+- Mouse Controls:
+	Scroll up: 	Rotate the piece right 
+	Scroll down:	Rotate the piece left
+	Left Click:	Move the piece left
+	Right Click: 	Move the piece right
