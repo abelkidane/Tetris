@@ -1,6 +1,7 @@
 README:
 
 This program can be ran and compiled via terminal using javac.
+Run the game with the terminal command "java Tetris" after compiling
 
 NOTE:
 
